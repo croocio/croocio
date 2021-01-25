@@ -1,4 +1,7 @@
-ne-data" data-line-start="2" data-line-end="3">생년월일 : 02.26.1993</li>
+<h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="_0"></a>소개</h2>
+<ul>
+<li class="has-line-data" data-line-start="1" data-line-end="2">이름 : 박지호</li>
+<li class="has-line-data" data-line-start="2" data-line-end="3">생년월일 : 02.26.1993</li>
 <li class="has-line-data" data-line-start="3" data-line-end="4">취미 : 게임, 자전거, 헬스</li>
 <li class="has-line-data" data-line-start="4" data-line-end="5">Email : <a href="mailto:croocio@gmail.com">croocio@gmail.com</a></li>
 <li class="has-line-data" data-line-start="5" data-line-end="6">Github : <a href="http://github.com/croocio">github.com/croocio</a></li>
