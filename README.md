@@ -16,28 +16,28 @@
 <p class="has-line-data" data-line-start="15" data-line-end="16">용사의 모험 ( 2011.07 ~ 2011.10 , 개인 )</p>
 </blockquote>
 <ul>
-<li class="has-line-data" data-line-start="16" data-line-end="17">winAPI를 사용하여 만든 간단한 rpg Game</li>
+<li class="has-line-data" data-line-start="16" data-line-end="17">winAPI를 사용하여 만든 rpg Game</li>
 <li class="has-line-data" data-line-start="17" data-line-end="18">몬스터들을 사냥하여 용사의 능력치를 성장시켜 마지막 보스를 잡는것이 목표</li>
 </ul>
 <blockquote>
 <p class="has-line-data" data-line-start="18" data-line-end="19">미궁 탈출 ( 2015.07 ~ 2015.10 , 개인 )</p>
 </blockquote>
 <ul>
-<li class="has-line-data" data-line-start="19" data-line-end="20">Unity3를 사용하여 만든 간단한 미로 탈출 Game</li>
+<li class="has-line-data" data-line-start="19" data-line-end="20">Unity3를 사용하여 만든 미로 탈출 Game</li>
 <li class="has-line-data" data-line-start="20" data-line-end="21">미로에 있는 장애물들을 피해 목표지역까지 이동하는것이 목표</li>
 </ul>
 <blockquote>
 <p class="has-line-data" data-line-start="21" data-line-end="22">대장장이 ( 2016.07 ~ 2016.10 , 2인 )</p>
 </blockquote>
 <ul>
-<li class="has-line-data" data-line-start="22" data-line-end="23">Android Studio를 사용하여 만든 간단한 Clicker Game</li>
+<li class="has-line-data" data-line-start="22" data-line-end="23">Android Studio를 사용하여 만든 Clicker Game</li>
 <li class="has-line-data" data-line-start="23" data-line-end="24">대장장이의 능력을 높여서 보다 많은 돈을 모으는것이 목표</li>
 </ul>
 <blockquote>
 <p class="has-line-data" data-line-start="24" data-line-end="25">MakeaDefeat ( 2017.01 , 개인 )</p>
 </blockquote>
 <ul>
-<li class="has-line-data" data-line-start="25" data-line-end="26">Unity3D를 사용하여 만든 간단한 미션 Game</li>
+<li class="has-line-data" data-line-start="25" data-line-end="26">Unity3D를 사용하여 만든 미션 Game</li>
 <li class="has-line-data" data-line-start="26" data-line-end="27">각 Stage별 미션을 Clear 하는것이 목표</li>
 <li class="has-line-data" data-line-start="27" data-line-end="28">Ai들의 Chasing 기술 구현</li>
 <li class="has-line-data" data-line-start="28" data-line-end="30">호주 Griffth Univ에 연수가서 배우면서 만듦</li>
