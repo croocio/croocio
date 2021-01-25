@@ -23,7 +23,7 @@
 <p class="has-line-data" data-line-start="18" data-line-end="19">미궁 탈출 ( 2015.07 ~ 2015.10 , 개인 )</p>
 </blockquote>
 <ul>
-<li class="has-line-data" data-line-start="19" data-line-end="20">Unity를 사용하여 만든 간단한 미로 탈출 Game</li>
+<li class="has-line-data" data-line-start="19" data-line-end="20">Unity3를 사용하여 만든 간단한 미로 탈출 Game</li>
 <li class="has-line-data" data-line-start="20" data-line-end="21">미로에 있는 장애물들을 피해 목표지역까지 이동하는것이 목표</li>
 </ul>
 <blockquote>
