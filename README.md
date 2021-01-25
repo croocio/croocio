@@ -1,5 +1,4 @@
 <h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="_0"></a>소개</h2>
-<hr>
 <ul>
 <li class="has-line-data" data-line-start="2" data-line-end="3">이름 : 박지호</li>
 <li class="has-line-data" data-line-start="3" data-line-end="4">생년월일 : 02.26.1993</li>
