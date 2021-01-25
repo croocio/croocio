@@ -6,12 +6,12 @@
 <li class="has-line-data" data-line-start="4" data-line-end="5">Email : <a href="mailto:croocio@gmail.com">croocio@gmail.com</a></li>
 <li class="has-line-data" data-line-start="5" data-line-end="6">Github : <a href="http://github.com/croocio">github.com/croocio</a></li>
 </ul>
-<h4 class="code-line" data-line-start=8 data-line-end=9 ><a id="_8"></a>학력</h4>
+<h3 class="code-line" data-line-start=8 data-line-end=9 ><a id="_8"></a>학력</h3>
 <ul>
 <li class="has-line-data" data-line-start="9" data-line-end="10">대광고등학교 ( 2008.03 ~ 2011.02 )</li>
 <li class="has-line-data" data-line-start="10" data-line-end="12">한림대학교 컴퓨터공학과 ( 2011.03 ~ 2018.02 )</li>
 </ul>
-<h4 class="code-line" data-line-start=12 data-line-end=13 ><a id="_12"></a>프로젝트</h4>
+<h3 class="code-line" data-line-start=12 data-line-end=13 ><a id="_12"></a>프로젝트</h3>
 <blockquote>
 <p class="has-line-data" data-line-start="14" data-line-end="15">용사의 모험 ( 2011.07 ~ 2011.10 , 개인 )</p>
 </blockquote>
@@ -56,9 +56,9 @@
 <li class="has-line-data" data-line-start="47" data-line-end="48">Ai들의 Chasing 기술 구현</li>
 <li class="has-line-data" data-line-start="48" data-line-end="50">DB를 이용하여 사용자의 진행사항 저장을 구현</li>
 </ul>
-<h4 class="code-line" data-line-start=50 data-line-end=51 ><a id="_50"></a>기타사항</h4>
+<h3 class="code-line" data-line-start=50 data-line-end=51 ><a id="_50"></a>기타사항</h3>
 <ul>
-<li class="has-line-data" data-line-start="51" data-line-end="53">호주 Griffth Univ 에 Unity3D를 단기연수 다녀왔습니다. ( 2017.01)</li>
+<li class="has-line-data" data-line-start="51" data-line-end="53">호주 Griffth Univ 에 Unity3D를 단기연수 다녀왔습니다. ( 2017.01 )</li>
 </ul>
 <h5 class="code-line" data-line-start=53 data-line-end=54 ><a id="Skills_53"></a>Skills</h5>
 <p class="has-line-data" data-line-start="54" data-line-end="56"><img src="https://img.shields.io/badge/-C-a8b9cc?style=flat-square&amp;logo=C&amp;logoColor=white" alt="C"> <img src="https://img.shields.io/badge/-C++-00599c?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&amp;logo=C%20Sharp&amp;logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/-Pyyhon-3776ab?style=flat-square&amp;logo=Python&amp;logoColor=white" alt="Python"><br>
