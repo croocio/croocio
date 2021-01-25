@@ -1,7 +1,4 @@
-<h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="_0"></a>소개</h2>
-<ul>
-<li class="has-line-data" data-line-start="1" data-line-end="2">이름 : 박지호</li>
-<li class="has-line-data" data-line-start="2" data-line-end="3">생년월일 : 02.26.1993</li>
+ne-data" data-line-start="2" data-line-end="3">생년월일 : 02.26.1993</li>
 <li class="has-line-data" data-line-start="3" data-line-end="4">취미 : 게임, 자전거, 헬스</li>
 <li class="has-line-data" data-line-start="4" data-line-end="5">Email : <a href="mailto:croocio@gmail.com">croocio@gmail.com</a></li>
 <li class="has-line-data" data-line-start="5" data-line-end="6">Github : <a href="http://github.com/croocio">github.com/croocio</a></li>
@@ -57,12 +54,18 @@
 <li class="has-line-data" data-line-start="48" data-line-end="50">DB를 이용하여 사용자의 진행사항 저장을 구현</li>
 </ul>
 <h3 class="code-line" data-line-start=50 data-line-end=51 ><a id="_50"></a>기타사항</h3>
+<blockquote>
+<p class="has-line-data" data-line-start="51" data-line-end="52">호주 Griffth Univ 에 단기연수 다녀왔습니다. ( 2017.01.09 - 29 )</p>
+</blockquote>
 <ul>
-<li class="has-line-data" data-line-start="51" data-line-end="53">호주 Griffth Univ 에 Unity3D를 단기연수 다녀왔습니다. ( 2017.01 )</li>
+<li class="has-line-data" data-line-start="53" data-line-end="54">Lecture에서는 드론, Deep Learning 그리고 게임 알고리즘 및 AI 이론들을 배웠습니다.</li>
+<li class="has-line-data" data-line-start="54" data-line-end="55">Unity를 다수의 조교한테 2D 게임으로부터 3D 게임으로까지 순차적으로 배웠습니다.</li>
+<li class="has-line-data" data-line-start="55" data-line-end="56">Ai가 User의 위치를 추격해오는 Chasing 기술을 배웠습니다.</li>
+<li class="has-line-data" data-line-start="56" data-line-end="58">Unity를 이용해서 개인/ 팀 프로젝트를 진행하였습니다.</li>
 </ul>
-<h5 class="code-line" data-line-start=53 data-line-end=54 ><a id="Skills_53"></a>Skills</h5>
-<p class="has-line-data" data-line-start="54" data-line-end="56"><img src="https://img.shields.io/badge/-C-a8b9cc?style=flat-square&amp;logo=C&amp;logoColor=white" alt="C"> <img src="https://img.shields.io/badge/-C++-00599c?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&amp;logo=C%20Sharp&amp;logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/-Pyyhon-3776ab?style=flat-square&amp;logo=Python&amp;logoColor=white" alt="Python"><br>
+<h5 class="code-line" data-line-start=58 data-line-end=59 ><a id="Skills_58"></a>Skills</h5>
+<p class="has-line-data" data-line-start="59" data-line-end="61"><img src="https://img.shields.io/badge/-C-a8b9cc?style=flat-square&amp;logo=C&amp;logoColor=white" alt="C"> <img src="https://img.shields.io/badge/-C++-00599c?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&amp;logo=C%20Sharp&amp;logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/-Pyyhon-3776ab?style=flat-square&amp;logo=Python&amp;logoColor=white" alt="Python"><br>
 <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/-JavScript-f7df1e?style=flat-square&amp;logo=javaScript&amp;logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" alt="HTML5"></p>
-<h5 class="code-line" data-line-start=56 data-line-end=57 ><a id="Tools_56"></a>Tools</h5>
-<p class="has-line-data" data-line-start="57" data-line-end="59"><img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&amp;logo=Visual%20Studio&amp;logoColor=white" alt="VisualStudio"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat-square&amp;logo=Visual%20Studio%20Code&amp;logoColor=white" alt="VisualStudioCode"> <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&amp;logo=Unity&amp;logoColor=white" alt="Unity"> <img src="https://img.shields.io/badge/-Eclipse%20IDE-2c2255?style=flat-square&amp;logo=Eclipse%20IDE&amp;logoColor=white" alt="EclipseIDE">  <img src="https://img.shields.io/badge/-Android%20Studio-3ddc84?style=flat-square&amp;logo=Android%20Studio&amp;logoColor=white" alt="AndroidStudio"><br>
+<h5 class="code-line" data-line-start=61 data-line-end=62 ><a id="Tools_61"></a>Tools</h5>
+<p class="has-line-data" data-line-start="62" data-line-end="64"><img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&amp;logo=Visual%20Studio&amp;logoColor=white" alt="VisualStudio"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat-square&amp;logo=Visual%20Studio%20Code&amp;logoColor=white" alt="VisualStudioCode"> <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&amp;logo=Unity&amp;logoColor=white" alt="Unity"> <img src="https://img.shields.io/badge/-Eclipse%20IDE-2c2255?style=flat-square&amp;logo=Eclipse%20IDE&amp;logoColor=white" alt="EclipseIDE">  <img src="https://img.shields.io/badge/-Android%20Studio-3ddc84?style=flat-square&amp;logo=Android%20Studio&amp;logoColor=white" alt="AndroidStudio"><br>
 <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31a8ff?style=flat-square&amp;logo=Adobe%20Photoshop&amp;logoColor=white" alt="AdobePhotoshop"> <img src="https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?style=flat-square&amp;logo=Adobe%20Premiere%20Pro&amp;logoColor=black" alt="AdobePremierePro"></p>
