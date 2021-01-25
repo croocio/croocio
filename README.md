@@ -54,6 +54,7 @@
 <ul>
 <li class="has-line-data" data-line-start="46" data-line-end="47">Unity3D를 사용하여 제작</li>
 <li class="has-line-data" data-line-start="47" data-line-end="48">Ai들의 Chasing 기술 구현</li>
+<li class="has-line-data" data-line-start="48" data-line-end="50">DB를 이용하여 사용자의 진행사항 저장을 구현</li>
 </ul>
 <h4 class="code-line" data-line-start=50 data-line-end=51 ><a id="_50"></a>기타사항</h4>
 <ul>
