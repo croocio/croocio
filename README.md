@@ -111,7 +111,7 @@
 </ul>
 <h3 class="code-line" data-line-start=92 data-line-end=93 ><a id="_92"></a>기타사항</h3>
 <blockquote>
-<p class="has-line-data" data-line-start="93" data-line-end="94">호주 Griffth Univ 에 단기연수 다녀왔습니다. ( 2017.01.09 - 29 )</p>
+<p class="has-line-data" data-line-start="93" data-line-end="94">호주 Griffth Univ 에 단기연수 다녀왔습니다. ( 2017.01.07 - 29 )</p>
 </blockquote>
 <ul>
 <li class="has-line-data" data-line-start="95" data-line-end="96">Lecture에서는 드론, Deep Learning 그리고 게임 알고리즘 및 AI 이론들을 배웠습니다.</li>
