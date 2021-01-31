@@ -3,7 +3,7 @@
 <li class="has-line-data" data-line-start="1" data-line-end="2">이름 : 박지호</li>
 <li class="has-line-data" data-line-start="2" data-line-end="3">생년월일 : 02.26.1993</li>
 <li class="has-line-data" data-line-start="3" data-line-end="4">취미 : 게임, 자전거, 헬스</li>
-<li class="has-line-data" data-line-start="4" data-line-end="5">지향점 : 간결하고 효율적인 아름다운 코딩</li>
+<li class="has-line-data" data-line-start="4" data-line-end="5">지향점 : 간결하고 효율적인 코딩</li>
 <li class="has-line-data" data-line-start="5" data-line-end="6">Email : <a href="mailto:croocio@gmail.com">croocio@gmail.com</a></li>
 <li class="has-line-data" data-line-start="6" data-line-end="8">Github : <a href="http://github.com/croocio">github.com/croocio</a></li>
 </ul>
